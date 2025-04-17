@@ -1,5 +1,5 @@
 {
-  "name": "python-sponge",
+  "name": "pythontutor",
   "version": "0.6.1",
   "private": true,
   "proxy": "http://localhost:5000/",
@@ -7,7 +7,7 @@
   "author": "Gyorgy Denes and Paul Baker",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/gdenes355/python-frontend"
+    "url": "https://github.com/dgwilt/python-frontend"
   },
   "dependencies": {
     "@azure/msal-react": "^3.0.5",
